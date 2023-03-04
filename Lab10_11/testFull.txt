@@ -1,0 +1,7 @@
+Paracetamol Sinus,50,ABC,Acetaminofen
+Nurofen,70,Pharm,Ibuprofen
+Nurofen raceala si gripa,80,Pharm,Ibuprofen
+Imodium,30,ABC,Loperamida
+
+No-spa,80,Pharm,Drotaverina
+Paracetamol 1000,95,HPharm,Acetaminofen
